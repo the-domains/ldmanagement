@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LDmanagement]]></title>
+        <description><![CDATA[LDmanagement]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 15:18:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We create competence.]]></title>
+            <description><![CDATA[<article><h1>We create competence.</h1><p>We are your access point for a training and development resource offering both breadth and quality. The Training Management Academy (TMA) is our division which focuses on the competence development needs of Learning & Development professionals as well as HRD and Talent Management functions.</p></article>]]></description>
+            <link>undefinedwe-create-competence/index.html</link>
+            <guid isPermaLink="false">e303c07c-13d7-4e26-8f25-27184efc7ba5</guid>
+            <pubDate>Thu, 07 Jul 2016 15:18:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
